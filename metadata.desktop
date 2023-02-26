@@ -5,7 +5,7 @@ Icon=preferences-system-windows
 
 X-KDE-PluginInfo-Author=pendo324
 X-KDE-PluginInfo-Email=pendo3247@gmail.com
-X-KDE-PluginInfo-Name=publishResourceOnActive
+X-KDE-PluginInfo-Name=publishResourceOnActivate
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-License=MIT
 
